@@ -215,7 +215,7 @@ Aqui encontram-se os operadores mais comuns em JavaScript:
 
 ## Valores & Tipos
 
-Se você abordar uma vendedora de uma loja de celulares e perguntar quanto um certo modelo custa, e ela disser "noventa e nove e noventa e nove" ($99.99), ele está fornecendo um valor numérico que representa quanto você vai precisar pagar para comprar o aparelho. Se você quiser levar dois desses celulares, você pode facilmente fazer uma conta mental e dobrar o valor para encontrar o valor $199,98.
+Se você abordar uma vendedora de uma loja de celulares e perguntar quanto um certo modelo custa, e ela disser "noventa e nove e noventa e nove" ($99.99), ela está fornecendo um valor numérico que representa quanto você vai precisar pagar para comprar o aparelho. Se você quiser levar dois desses celulares, você pode facilmente fazer uma conta mental e dobrar o valor para encontrar o valor $199,98.
 
 Se a vendedora pegar outro aparelho similar e disser "é grátis", ela não está te fornecendo um valor numérico, mas está fazendo um outro tipo de representação de um valor que é esperado ($0.00) -- a palavra "grátis."
 
